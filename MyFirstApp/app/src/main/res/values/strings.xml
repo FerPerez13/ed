@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BNN</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="edit_message">Introduce un mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>

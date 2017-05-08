@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SUMANDROID</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="firstNumber">Primer Número</string>
+    <string name="secondNumber">Segundo Número</string>
+    <string name="add">Suma</string>
+    <string name="mult">Multiplicar</string>
+    <string name="rest">Restar</string>
+    <string name="div">Dividir</string>
+</resources>

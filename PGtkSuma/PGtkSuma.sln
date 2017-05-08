@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGtkSuma", "PGtkSuma\PGtkSuma.csproj", "{9E823489-9610-49FB-8051-199F7F725EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E823489-9610-49FB-8051-199F7F725EF9}.Debug|x86.ActiveCfg = Debug|x86
+		{9E823489-9610-49FB-8051-199F7F725EF9}.Debug|x86.Build.0 = Debug|x86
+		{9E823489-9610-49FB-8051-199F7F725EF9}.Release|x86.ActiveCfg = Release|x86
+		{9E823489-9610-49FB-8051-199F7F725EF9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PGtkSuma\PGtkSuma.csproj
+	EndGlobalSection
+EndGlobal

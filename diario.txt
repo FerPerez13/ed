@@ -1,0 +1,42 @@
+VISTO EL 11.01.11
+
+Por si no podemos instalar correctamente AndroidStudio
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1
+
+VISTO EL 23SEPT2015
+
+Realizado programa Holamundo.c y sus compilaciones
+
+Compilamos el programa y como queremos llamar el programa. 
+gcc -o HolaMundo.exe HolaMundo.c 
+
+Ejecutar HolaMundo.exe introduciremos en el terminal la siguiente linea: ./HolaMundo.exe
+
+Preprocesado: gcc -E HolaMundo.c > Holamundo.pp
+
+compilar sin ensamblar ni enlazar: gcc -S HolaMundo.c
+
+Compilar y Ensamblar pero no enlazar: gcc -c HolaMundo.c
+
+
+VISTO HASTA EL 23SEPT2015
+
+- instalar git:
+		sudo apt-get install git
+
+- creamos repositorio en github. Si no somos usuarios, debemos crear uno
+
+- Clonamos el repositorio de GitHub:
+    git clone https://github.com/FerPerez13/ed.git 
+
+-Realizamos operaciones para configurar y realizar un push:
+    git status
+    gedit hola mundo git.txt
+    git add .
+    git config --list
+    git config --global user.name FerPerez13
+    git config --global user.email dam.fperez@institutoserpis.org
+    git commit -m "Hola mundo desde Git"
+    git config --global push.default simple
+    git push
+
